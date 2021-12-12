@@ -1,0 +1,7 @@
+.nav_panel {
+    grid-area: nav_panel;
+    /*border-right: 4px solid green;*/
+    height: 500px;
+    border-right: 3px solid #7E8AA2;
+    background-color: #F2F2F2;
+}

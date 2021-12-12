@@ -1,0 +1,11 @@
+.wrapper_container{
+    display: grid;
+    width: 1200px;
+    margin: 0 auto;
+    grid-template-areas:
+    "h h"
+    "nav_panel c";
+
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+}
